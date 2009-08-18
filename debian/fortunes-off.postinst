@@ -1,0 +1,6 @@
+#!/bin/sh
+
+mkdir -p /usr/local/share/games/fortunes/off || true
+
+#DEBHELPER#
+
