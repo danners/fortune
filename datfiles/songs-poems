@@ -712,7 +712,7 @@ While Riley was away.
 
 	who | grep sleeping
 	who | grep awake
-	who | grep bad || good
+	who | grep 'bad\|good'
 	for (goodness sake) {
 		be good
 	}
